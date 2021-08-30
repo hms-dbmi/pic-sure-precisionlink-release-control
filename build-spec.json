@@ -15,11 +15,11 @@
     },{
       "project_name": "PIC-SURE-HPDS-UI Build",
       "project_job_git_key":"PSHU",
-      "git_hash": "f3e3c6a2419e56699ce4ee1ab28b19f8ddffae25"
+      "git_hash": "8fc0bf938793910327f26af10a402f6252e01b24"
     },{
       "project_name": "PIC-SURE-OVERRIDE-UI",
       "project_job_git_key":"PSU",
-      "git_hash": "6ea186ce98dd76e51ad27cfff4d669fa82f54a76"
+      "git_hash": "c41f9db4b483bae3a75716f4d6729e1a3b0feb02"
     }
   ]
 }
