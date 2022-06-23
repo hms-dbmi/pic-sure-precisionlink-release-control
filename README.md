@@ -4,12 +4,13 @@ Visit [https://pl-portal.childrens.harvard.edu](https://pl-portal.childrens.harv
 <b> Current version of data</b>
 |Data type|Details|Date of extract|
 |----------|--|--|
-|phenotypic|Allergies <br> Biospecimens <br> Clinic site <br> Demographics  <br> Diagnosis  <br> Insurance Payors <br> Laboratory Results  <br> Medications <br> Procedures <br> Protocols <br> Service <br> Vital Signs |2021-09-24
+|phenotypic|Allergies <br> Biospecimens <br> Clinic site <br> Demographics  <br> Diagnosis  <br> Insurance Payors <br> Laboratory Results  <br> Medications <br> Procedures <br> Protocols <br> Service <br> Vital Signs |2022-04-07
 |genomic|Genotype Array, WES, WGS |2021-01-21
 
 <b> Data Releases </b> <br>
 |Release|Date|Data type|Release Notes|
 |-|----------|--|--|
+|4|2022-06-22|phenotypic|- Phenotypic data has been refreshed with data as of April 7, 2022. This refresh included all BCH data. |
 |3|2022-02-16|phenotypic|- Phenotypic data has been refreshed with data as of September 24, 2022. This refresh included all BCH data. |
 |2|2021-06-25|phenotypic|- Phenotypic data has been refreshed with data as of January 21, 2021. This refresh included all BCH data. |
 |1|2021-06-25|genomic|- Genomic Data: WES, WGS, and Genotype Array, as well as CDRC WES and WGS.  |
